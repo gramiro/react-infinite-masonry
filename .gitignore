@@ -3,7 +3,7 @@
 *.iml
 .*.haste_cache.*
 .DS_Store
-.idea
+*.idea
 npm-debug.log
 node_modules
 dist
