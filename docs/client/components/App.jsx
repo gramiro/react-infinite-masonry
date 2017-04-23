@@ -1,5 +1,5 @@
 import React from 'react';
-var MasonryScroller = require('../../dist/index.js').default;
+var MasonryScroller = require('../../react-infinite-masonry/index.js').default;
 
 export default class App extends React.Component {
 	constructor(props){
